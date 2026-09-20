@@ -1,7 +1,7 @@
 
 import pytesseract
 
-from preprocessing import preprocess_image
+from src.preprocessing import preprocess_image
 
 
 def extract_text(image_path):
