@@ -1,0 +1,29 @@
+{
+    "mandatory_fields": [
+        {
+            "field": "mrp",
+            "name": "Maximum Retail Price",
+            "description": "MRP declaration should be detected."
+        },
+        {
+            "field": "net_quantity",
+            "name": "Net Quantity",
+            "description": "Net quantity declaration should be detected."
+        },
+        {
+            "field": "manufacturer",
+            "name": "Manufacturer / Packer",
+            "description": "Manufacturer or packer information should be detected."
+        },
+        {
+            "field": "manufacturing_date",
+            "name": "Manufacturing / Packing Date",
+            "description": "Manufacturing or packing date should be detected."
+        },
+        {
+            "field": "consumer_care",
+            "name": "Consumer Care Information",
+            "description": "Consumer care contact information should be detected."
+        }
+    ]
+}
