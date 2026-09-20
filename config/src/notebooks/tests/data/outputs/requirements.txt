@@ -1,0 +1,8 @@
+opencv-python
+pytesseract
+Pillow
+numpy
+pandas
+matplotlib
+gradio
+reportlab
