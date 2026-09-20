@@ -21,3 +21,4 @@ outputs/results/*
 
 .DS_Store
 Thumbs.db
+.gradio/
