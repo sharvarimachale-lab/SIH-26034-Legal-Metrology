@@ -1,0 +1,6 @@
+test_id,image_name,image_quality,expected_mrp,expected_quantity,expected_manufacturer,expected_date,expected_consumer_care,notes
+T001,product1.jpg,GOOD,120,500 g,ABC Foods,01/08/2026,1800-123-4567,
+T002,product2.jpg,GOOD,250,1 kg,XYZ Foods,15/07/2026,1800-222-3333,
+T003,product3.jpg,BLURRY,99,200 g,DEF Foods,10/08/2026,1800-444-5555,
+T004,product4.jpg,ROTATED,150,500 ml,GHI Foods,20/07/2026,1800-666-7777,
+T005,product5.jpg,LOW_LIGHT,80,100 g,JKL Foods,05/08/2026,1800-888-9999,
